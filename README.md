@@ -34,6 +34,12 @@
 
 ## Resources
 
+- [zfs文件系统](https://blog.csdn.net/mmh19891113/article/details/113866116)
+- [文件系统 ZFS - 文件系统简介](https://blog.csdn.net/mmh19891113/article/details/118333092)
+- [What is ZFS? Why are People Crazy About it?](https://itsfoss.com/what-is-zfs/)
+
+- [初学者指南：ZFS 是什么，为什么要使用 ZFS？](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL58LUjr_xAhVYyYsBHR4HD_8QFjABegQIAxAD&url=https%3A%2F%2Fkknews.cc%2Fnews%2Faprbmnv.html&usg=AOvVaw0DW9Gsa_AX_REwOqkSp0XX)
+- [zfs 檔案系統試水](https://newtoypia.blogspot.com/2017/03/zfs.html)
 
 
 
